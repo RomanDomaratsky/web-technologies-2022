@@ -1,0 +1,100 @@
+#blue_rectangle_form{
+    width: 80px;
+    height: 80px;
+    border-radius: 15px;
+    transform: translate(65px, 5px);
+
+}
+#blue_rectangle{
+    background-color: powderblue;
+    width: 80px;
+    height: 80px;
+    border-radius: 15px;
+    border: solid 1px;
+    transform: rotate(47deg);
+}
+#yellow_rectangle_form{
+    width: 80px;
+    height: 80px;
+    border-radius: 15px;
+    transform: translate(12px, 1px);
+
+}
+#yellow_rectangle{
+    background-color: yellow;
+    width: 80px;
+    height: 80px;
+    border-radius: 15px;
+    border: solid 1px;
+    transform: rotate(15deg);
+}
+#pink_rectangle_form{
+    width: 80px;
+    height: 80px;
+    border-radius: 15px;
+    transform: translate(115px, -78px);
+
+}
+#pink_rectangle{
+    background-color: mediumvioletred;
+    width: 80px;
+    height: 80px;
+    border-radius: 15px;
+    border: solid 1px;
+    transform: rotate(-15deg);
+}
+
+
+
+
+#blue_rectangle_form2{
+    width: 80px;
+    height: 80px;
+    border-radius: 15px;
+    position: relative;
+    top: 5px;
+    left: 65px;
+
+}
+#blue_rectangle2{
+    background-color: powderblue;
+    width: 80px;
+    height: 80px;
+    border-radius: 15px;
+    border: solid 1px;
+    transform: rotate(47deg);
+}
+#yellow_rectangle_form2{
+    width: 80px;
+    height: 80px;
+    border-radius: 15px;
+    position: relative;
+    top: 1px;
+    left: 10px;
+
+}
+#yellow_rectangle2{
+    background-color: yellow;
+    width: 80px;
+    height: 80px;
+    border-radius: 15px;
+    border: solid 1px;
+    transform: rotate(15deg);
+}
+#pink_rectangle_form2{
+    width: 80px;
+    height: 80px;
+    border-radius: 15px;
+    position: relative;
+    top: -78px;
+    left: 115px;
+
+}
+#pink_rectangle2{
+    background-color: mediumvioletred;
+    width: 80px;
+    height: 80px;
+    border-radius: 15px;
+    border: solid 1px;
+    transform: rotate(-15deg);
+}

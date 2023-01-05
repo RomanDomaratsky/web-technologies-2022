@@ -1,0 +1,20 @@
+body{
+    background: #e2e6b5;
+}
+#users{
+    display: flex;
+    flex-direction: row;
+}
+#block{
+    background: white;
+    border: 3px solid #edeeaf;
+    text-align: center;
+}
+#btn{
+    margin: auto;
+    display: block;
+}
+#success{
+    display: none;
+    text-align: center;
+}
